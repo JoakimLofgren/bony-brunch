@@ -1,0 +1,1 @@
+Brunch skeleton based on https://github.com/nezoomie/brunch-eggs-and-bacon
